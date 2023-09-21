@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMDemoWithRoom</string>
+    <string name="str_tv_title">Android Kotlin Tutorials</string>
+    <string name="str_updated_at">Updated At</string>
+    <string name="str_enter_note_title">Enter Note Title</string>
+    <string name="str_enter_your_note_detail">Enter Your Note Detail</string>
+    <string name="str_save_data">Save Data</string>
+</resources>
