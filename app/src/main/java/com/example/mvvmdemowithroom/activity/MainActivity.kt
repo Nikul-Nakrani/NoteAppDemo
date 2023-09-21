@@ -34,8 +34,7 @@ class MainActivity : AppCompatActivity(), NoteClickInterface, NoteClickDeleteInt
         // initializing our view modal.
         viewModel = ViewModelProvider(
             this, ViewModelProvider.AndroidViewModelFactory.getInstance(application)
-        )
-            .get(NoteViewModel::class.java)
+        )[NoteViewModel::class.java]
 
         // from our view modal class to observer the changes on list.
         viewModel.allNotes.observe(this, Observer { list ->
@@ -53,6 +52,7 @@ class MainActivity : AppCompatActivity(), NoteClickInterface, NoteClickDeleteInt
             val intent = Intent(this, AddNoteActivity::class.java)
             startActivity(intent)
             finish()
+
         }
     }
 
