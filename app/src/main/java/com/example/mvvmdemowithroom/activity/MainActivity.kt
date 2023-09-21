@@ -53,6 +53,7 @@ class MainActivity : AppCompatActivity(), NoteClickInterface, NoteClickDeleteInt
             startActivity(intent)
             finish()
 
+
         }
     }
 
