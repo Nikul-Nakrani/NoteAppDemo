@@ -13,7 +13,7 @@ View a list of saved notes.
 ## Getting Started
 To get started with this project, follow these steps:
 
-Clone this repository to your local machine using 
+Clone this repository to your local machine using :
 ```
 git clone https://github.com/Nikul-Nakrani/mvvmdemowithroom.git.
 ```
