@@ -18,10 +18,6 @@ Clone this repository to your local machine using :
 git clone https://github.com/Nikul-Nakrani/mvvmdemowithroom.git.
 ```
 
-Open the project in Android Studio.
-
-Build and run the app on an emulator or physical device.
-
 ## Prerequisites
 Android Studio with the latest Android SDK installed.
 Gradle build system.
