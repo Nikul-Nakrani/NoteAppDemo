@@ -33,7 +33,7 @@ Material Components
 Architecture
 This app follows the MVVM (Model-View-ViewModel) architecture pattern, separating the UI (View), the data (Model), and the logic (ViewModel) into different components.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
