@@ -19,15 +19,14 @@ git clone https://github.com/Nikul-Nakrani/mvvmdemowithroom.git.
 ```
 
 ## Prerequisites
-Android Studio with the latest Android SDK installed.
-Gradle build system.
-Libraries Used
-Android Architecture Components (ViewModel)
-Room Persistence Library
-RecyclerView
-Material Components
-Architecture
-This app follows the MVVM (Model-View-ViewModel) architecture pattern, separating the UI (View), the data (Model), and the logic (ViewModel) into different components.
+-Android Studio with the latest Android SDK installed.
+-Gradle build system.
+-Libraries Used
+-Android Architecture Components (ViewModel)
+-Room Persistence Library
+-Material Components
+-Architecture
+-This app follows the MVVM (Model-View-ViewModel) architecture pattern, separating the UI (View), the data (Model), and the logic (ViewModel) into different components.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
